@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+  font-family: Arial;
+  background: linear-gradient(to right, pink, lightcoral);
+  color: white;
+}
+.gallery img {
+  width: 100px;
+  margin: 10px;
+  border-radius: 15px;
+}
+button {
+  padding: 10px 20px;
+  background: white;
+  color: red;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
